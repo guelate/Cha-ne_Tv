@@ -23,7 +23,7 @@ class mvc {
 }
 
 class Model {
-//
+
   
 
     constructor(){
